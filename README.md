@@ -57,13 +57,13 @@ src/
 
 ## Capturas de pantalla
 Listado - Modo claro
-![Listado - claro](public/images/screenshots/screenshot-recipees-white.png)
+![Listado - claro](public/images/screenshots/screenshot-recipees-white.jpg)
 
 Listado - Modo oscuro
-![Listado - oscuro](public/images/screenshots/screenshot-recipees-dark.png)
+![Listado - oscuro](public/images/screenshots/screenshot-recipees-dark.jpg)
 
 Detalle de receta - Modal
-![Detalle - modal](public/images/screenshots/screenshot-details-modal.png)
+![Detalle - modal](public/images/screenshots/screenshot-details-modal.jpg)
 
 Detalle de receta - Página
-![Detalle - página](public/images/screenshots/screenshot-details-page.png)
+![Detalle - página](public/images/screenshots/screenshot-details-page.jpg)

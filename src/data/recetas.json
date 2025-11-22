@@ -1,0 +1,333 @@
+[
+  {
+    "id": 1,
+    "titulo": "Milanesa con papas fritas",
+    "descripcion": "Bife apanado dorado con papas fritas bien crocantes y perejil fresco.",
+    "imagen": "/images/schnitzel-fries.jpg",
+    "tiempoPreparacion": "45 minutos",
+    "dificultad": "Media",
+    "porciones": 4,
+    "calificacion": 4.6,
+    "ingredientes": [
+      { "cantidad": "4", "unidad": "unidades", "nombre": "Bifes de nalga aplanados" },
+      { "cantidad": "2", "unidad": "unidades", "nombre": "Huevos" },
+      { "cantidad": "1", "unidad": "taza", "nombre": "Pan rallado" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Sal y pimienta" },
+      { "cantidad": "600", "unidad": "g", "nombre": "Papas" },
+      { "cantidad": "50", "unidad": "g", "nombre": "Manteca" },
+      { "cantidad": "100", "unidad": "ml", "nombre": "Leche" },
+      { "cantidad": "500", "unidad": "ml", "nombre": "Aceite para freír" },
+      { "cantidad": "2", "unidad": "cucharadas", "nombre": "Perejil picado" }
+    ],
+    "pasos": [
+      "Condimentar los bifes, pasarlos por huevo batido y pan rallado",
+      "Freír en aceite caliente hasta dorar y escurrir en papel",
+      "Hervir las papas hasta que estén tiernas",
+      "Pisar las papas con manteca, leche, sal y pimienta hasta lograr un puré cremoso",
+      "Servir la milanesa con el puré y espolvorear perejil"
+    ],
+    "categoria": "Platos Principales"
+  },
+  {
+    "id": 2,
+    "titulo": "Tortilla de papas",
+    "descripcion": "Tortilla alta y jugosa de papa y cebolla, dorada por fuera y tierna por dentro.",
+    "imagen": "/images/potato-omelette.jpg",
+    "tiempoPreparacion": "35 minutos",
+    "dificultad": "Fácil",
+    "porciones": 4,
+    "calificacion": 4.4,
+    "ingredientes": [
+      { "cantidad": "700", "unidad": "g", "nombre": "Papas" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Cebolla grande" },
+      { "cantidad": "6", "unidad": "unidades", "nombre": "Huevos" },
+      { "cantidad": "200", "unidad": "ml", "nombre": "Aceite" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Sal y pimienta" }
+    ],
+    "pasos": [
+      "Cortar las papas en rodajas finas y la cebolla en pluma",
+      "Cocinar ambas en abundante aceite a fuego medio hasta ablandar sin dorar demasiado",
+      "Escurrir y mezclar con los huevos batidos, sal y pimienta",
+      "Volcar en sartén con poco aceite a fuego medio, cuajar de un lado",
+      "Dar vuelta con ayuda de un plato y terminar la cocción"
+    ],
+    "categoria": "Platos Principales"
+  },
+  {
+    "id": 3,
+    "titulo": "Pollo al horno con papas",
+    "descripcion": "Pollo dorado con piel crocante y papas al limón, típico domingo en familia.",
+    "imagen": "/images/roasted-chicken.jpg",
+    "tiempoPreparacion": "75 minutos",
+    "dificultad": "Fácil",
+    "porciones": 4,
+    "calificacion": 4.5,
+    "ingredientes": [
+      { "cantidad": "1.5", "unidad": "kg", "nombre": "Pollo trozado" },
+      { "cantidad": "4", "unidad": "unidades", "nombre": "Papas grandes" },
+      { "cantidad": "2", "unidad": "dientes", "nombre": "Ajo" },
+      { "cantidad": "2", "unidad": "cucharadas", "nombre": "Aceite de oliva" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Limón" },
+      { "cantidad": "1", "unidad": "cucharadita", "nombre": "Pimentón" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Orégano" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Sal y pimienta" }
+    ],
+    "pasos": [
+      "Precalentar el horno a 200°C",
+      "Mezclar aceite, ajo, pimentón, orégano, sal, pimienta y jugo de limón",
+      "Pincelar el pollo y las papas en gajos con el adobo",
+      "Hornear 45-60 minutos girando piezas para dorar parejo",
+      "Subir a 220°C los últimos minutos para piel crocante",
+      "Servir con los jugos de cocción"
+    ],
+    "categoria": "Platos Principales"
+  },
+  {
+    "id": 4,
+    "titulo": "Guiso de arroz criollo",
+    "descripcion": "Arroz meloso con carne, verduras y chorizo, bien especiado y reconfortante.",
+    "imagen": "/images/rice-stew.jpg",
+    "tiempoPreparacion": "60 minutos",
+    "dificultad": "Media",
+    "porciones": 6,
+    "calificacion": 4.3,
+    "ingredientes": [
+      { "cantidad": "400", "unidad": "g", "nombre": "Arroz" },
+      { "cantidad": "300", "unidad": "g", "nombre": "Carne vacuna en cubos" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Cebolla" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Morrón rojo" },
+      { "cantidad": "2", "unidad": "unidades", "nombre": "Zanahorias" },
+      { "cantidad": "2", "unidad": "unidades", "nombre": "Chorizos colorados" },
+      { "cantidad": "200", "unidad": "g", "nombre": "Puré de tomate" },
+      { "cantidad": "1", "unidad": "cucharadita", "nombre": "Pimentón" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Sal y pimienta" },
+      { "cantidad": "800", "unidad": "ml", "nombre": "Caldo" }
+    ],
+    "pasos": [
+      "Saltear cebolla, morrón y zanahoria en cubos con un poco de aceite",
+      "Agregar la carne y dorar bien",
+      "Sumar el arroz y nacarar unos minutos",
+      "Incorporar puré de tomate, chorizo en rodajas y pimentón",
+      "Agregar caldo caliente y cocinar a fuego medio bajo hasta que el arroz esté tierno y cremoso",
+      "Rectificar sal y pimienta"
+    ],
+    "categoria": "Platos Principales"
+  },
+  {
+    "id": 5,
+    "titulo": "Asado criollo",
+    "descripcion": "Tira de asado y chorizos a la parrilla, con chimichurri casero.",
+    "imagen": "/images/grilled-asado.jpg",
+    "tiempoPreparacion": "120 minutos",
+    "dificultad": "Media",
+    "porciones": 5,
+    "calificacion": 4.7,
+    "ingredientes": [
+      { "cantidad": "1.2", "unidad": "kg", "nombre": "Tira de asado" },
+      { "cantidad": "4", "unidad": "unidades", "nombre": "Chorizos" },
+      { "cantidad": "1", "unidad": "cabeza", "nombre": "Ajo" },
+      { "cantidad": "1", "unidad": "ramo", "nombre": "Perejil" },
+      { "cantidad": "150", "unidad": "ml", "nombre": "Aceite" },
+      { "cantidad": "50", "unidad": "ml", "nombre": "Vinagre" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Ají molido, orégano, sal y pimienta" }
+    ],
+    "pasos": [
+      "Prender el fuego y generar brasas parejas",
+      "Sal gruesa sobre la carne y llevar a la parrilla a fuego medio",
+      "Cocinar la tira de asado de 50 a 70 minutos según grosor, girando una vez",
+      "Asar los chorizos 25-30 minutos",
+      "Preparar chimichurri con ajo, perejil, aceite, vinagre y especias",
+      "Servir la carne con el chimichurri aparte"
+    ],
+    "categoria": "Platos Principales"
+  },
+  {
+    "id": 6,
+    "titulo": "Medialunas de manteca",
+    "descripcion": "Facturas hojaldradas, dulces y brillosas, perfectas para mate o café.",
+    "imagen": "/images/croissants.jpg",
+    "tiempoPreparacion": "120 minutos",
+    "dificultad": "Media",
+    "porciones": 8,
+    "calificacion": 4.5,
+    "ingredientes": [
+      { "cantidad": "500", "unidad": "g", "nombre": "Harina 0000" },
+      { "cantidad": "200", "unidad": "ml", "nombre": "Leche tibia" },
+      { "cantidad": "100", "unidad": "g", "nombre": "Manteca" },
+      { "cantidad": "80", "unidad": "g", "nombre": "Azúcar" },
+      { "cantidad": "15", "unidad": "g", "nombre": "Levadura fresca" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Huevo" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Sal" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Huevo extra para dorar" }
+    ],
+    "pasos": [
+      "Activar la levadura con leche tibia y parte del azúcar",
+      "Formar un bollo con harina, azúcar, huevo, sal y mezcla de levadura",
+      "Incorporar manteca pomada y amasar hasta liso",
+      "Leudar 1 hora",
+      "Estirar, plegar en tres y repetir dos veces",
+      "Cortar triángulos, enrollar en forma de medialuna",
+      "Leudar 30 minutos, pintar con huevo",
+      "Hornear a 180°C 15-18 minutos y pincelar con almíbar"
+    ],
+    "categoria": "Desayunos"
+  },
+  {
+    "id": 7,
+    "titulo": "Tortitas negras",
+    "descripcion": "Facturas esponjosas con cubierta de azúcar negra, clásicas de panadería.",
+    "imagen": "/images/black-sugar-bun.jpg",
+    "tiempoPreparacion": "90 minutos",
+    "dificultad": "Fácil",
+    "porciones": 8,
+    "calificacion": 4.2,
+    "ingredientes": [
+      { "cantidad": "500", "unidad": "g", "nombre": "Harina 0000" },
+      { "cantidad": "250", "unidad": "ml", "nombre": "Leche tibia" },
+      { "cantidad": "60", "unidad": "g", "nombre": "Manteca" },
+      { "cantidad": "70", "unidad": "g", "nombre": "Azúcar" },
+      { "cantidad": "25", "unidad": "g", "nombre": "Levadura fresca" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Huevo" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Sal" },
+      { "cantidad": "80", "unidad": "g", "nombre": "Azúcar negra para cubrir" }
+    ],
+    "pasos": [
+      "Disolver levadura en leche tibia con una cucharada de azúcar",
+      "Formar una masa con harina, resto de azúcar, huevo, sal y la levadura",
+      "Amasar con la manteca hasta lograr un bollo liso",
+      "Leudar 45 minutos",
+      "Formar bollitos, aplastar ligeramente y cubrir con azúcar negra",
+      "Leudar 20 minutos y hornear a 180°C 15-18 minutos"
+    ],
+    "categoria": "Desayunos"
+  },
+  {
+    "id": 8,
+    "titulo": "Tostadas francesas con canela",
+    "descripcion": "Pan dorado en mezcla de huevo y leche, con canela, azúcar y frutas frescas.",
+    "imagen": "/images/french-toast.jpg",
+    "tiempoPreparacion": "20 minutos",
+    "dificultad": "Fácil",
+    "porciones": 4,
+    "calificacion": 4.3,
+    "ingredientes": [
+      { "cantidad": "8", "unidad": "rebanadas", "nombre": "Pan de brioche o lactal" },
+      { "cantidad": "2", "unidad": "unidades", "nombre": "Huevos" },
+      { "cantidad": "200", "unidad": "ml", "nombre": "Leche" },
+      { "cantidad": "1", "unidad": "cucharadita", "nombre": "Canela" },
+      { "cantidad": "2", "unidad": "cucharadas", "nombre": "Azúcar" },
+      { "cantidad": "1", "unidad": "cucharada", "nombre": "Manteca" },
+      { "cantidad": "1", "unidad": "taza", "nombre": "Frutas frescas a elección" }
+    ],
+    "pasos": [
+      "Batir huevos, leche, canela y azúcar",
+      "Remojar rápidamente cada rebanada en la mezcla",
+      "Dorar en sartén con manteca hasta que queden doradas de ambos lados",
+      "Servir con frutas y un toque extra de azúcar o miel"
+    ],
+    "categoria": "Desayunos"
+  },
+  {
+    "id": 9,
+    "titulo": "Flan casero con dulce de leche",
+    "descripcion": "Flan suave con caramelo dorado, acompañado de dulce de leche y crema.",
+    "imagen": "/images/flan-dulce-leche.jpg",
+    "tiempoPreparacion": "70 minutos",
+    "dificultad": "Fácil",
+    "porciones": 6,
+    "calificacion": 4.6,
+    "ingredientes": [
+      { "cantidad": "6", "unidad": "unidades", "nombre": "Huevos" },
+      { "cantidad": "500", "unidad": "ml", "nombre": "Leche" },
+      { "cantidad": "150", "unidad": "g", "nombre": "Azúcar" },
+      { "cantidad": "1", "unidad": "cucharadita", "nombre": "Esencia de vainilla" },
+      { "cantidad": "100", "unidad": "g", "nombre": "Azúcar para caramelo" }
+    ],
+    "pasos": [
+      "Hacer caramelo con el azúcar y bañar el molde",
+      "Batir huevos con azúcar y vainilla sin espumar demasiado",
+      "Agregar la leche y mezclar",
+      "Verter en el molde acaramelado",
+      "Cocinar a baño María a 170°C 50-60 minutos",
+      "Enfriar y desmoldar, servir con dulce de leche y crema"
+    ],
+    "categoria": "Postres"
+  },
+  {
+    "id": 10,
+    "titulo": "Budín de pan",
+    "descripcion": "Postre húmedo y aromático de pan, ideal para aprovechar sobrantes.",
+    "imagen": "/images/bread-pudding.png",
+    "tiempoPreparacion": "90 minutos",
+    "dificultad": "Fácil",
+    "porciones": 8,
+    "calificacion": 4.1,
+    "ingredientes": [
+      { "cantidad": "300", "unidad": "g", "nombre": "Pan del día anterior" },
+      { "cantidad": "700", "unidad": "ml", "nombre": "Leche" },
+      { "cantidad": "3", "unidad": "unidades", "nombre": "Huevos" },
+      { "cantidad": "150", "unidad": "g", "nombre": "Azúcar" },
+      { "cantidad": "1", "unidad": "cucharadita", "nombre": "Esencia de vainilla" },
+      { "cantidad": "100", "unidad": "g", "nombre": "Uvas pasas (opcional)" }
+    ],
+    "pasos": [
+      "Remojar el pan en leche tibia hasta deshacer",
+      "Batir huevos con azúcar y vainilla, mezclar con el pan",
+      "Agregar pasas si se desea",
+      "Verter en molde acaramelado",
+      "Hornear a baño María a 170°C durante 60 minutos",
+      "Enfriar y desmoldar"
+    ],
+    "categoria": "Postres"
+  },
+  {
+    "id": 11,
+    "titulo": "Panqueques con dulce de leche",
+    "descripcion": "Masa finita y elástica, rellena con dulce de leche bien argentino.",
+    "imagen": "/images/pancakes-dulce-leche.jpg",
+    "tiempoPreparacion": "25 minutos",
+    "dificultad": "Fácil",
+    "porciones": 8,
+    "calificacion": 4.4,
+    "ingredientes": [
+      { "cantidad": "2", "unidad": "unidades", "nombre": "Huevos" },
+      { "cantidad": "250", "unidad": "ml", "nombre": "Leche" },
+      { "cantidad": "100", "unidad": "g", "nombre": "Harina 0000" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Sal" },
+      { "cantidad": "1", "unidad": "cucharada", "nombre": "Manteca derretida" },
+      { "cantidad": "200", "unidad": "g", "nombre": "Dulce de leche" }
+    ],
+    "pasos": [
+      "Mezclar huevos, leche, harina y sal hasta que no queden grumos",
+      "Agregar manteca derretida",
+      "Cocinar porciones de masa en panquequera o sartén antiadherente",
+      "Rellenar cada panqueque con dulce de leche y enrollar",
+      "Servir tibios"
+    ],
+    "categoria": "Postres"
+  },
+  {
+    "id": 12,
+    "titulo": "Chocotorta clásica",
+    "descripcion": "Capas de galletitas de chocolate y crema de dulce de leche y queso, sin horno.",
+    "imagen": "/images/chocotorta.jpg",
+    "tiempoPreparacion": "30 minutos",
+    "dificultad": "Fácil",
+    "porciones": 8,
+    "calificacion": 4.8,
+    "ingredientes": [
+      { "cantidad": "400", "unidad": "g", "nombre": "Galletitas de chocolate" },
+      { "cantidad": "400", "unidad": "g", "nombre": "Dulce de leche" },
+      { "cantidad": "400", "unidad": "g", "nombre": "Queso crema" },
+      { "cantidad": "200", "unidad": "ml", "nombre": "Leche o café para remojar" }
+    ],
+    "pasos": [
+      "Mezclar el dulce de leche con el queso crema hasta homogeneizar",
+      "Remojar rápidamente las galletitas en leche o café",
+      "Armar capas de galletitas y crema en una fuente",
+      "Repetir hasta completar y terminar con crema",
+      "Refrigerar al menos 3 horas antes de servir"
+    ],
+    "categoria": "Postres"
+  }
+]

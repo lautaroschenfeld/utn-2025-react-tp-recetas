@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "titulo": "Fideos con tuco",
+    "descripcion": "Pasta con salsa de tomate casera, la receta básica de domingo.",
+    "imagen": "/images/pasta.jpg",
+    "tiempoPreparacion": "35 minutos",
+    "dificultad": "Fácil",
+    "porciones": 4,
+    "ingredientes": [
+      { "cantidad": "400", "unidad": "g", "nombre": "Fideos secos" },
+      { "cantidad": "500", "unidad": "g", "nombre": "Tomate triturado" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Cebolla chica" },
+      { "cantidad": "1", "unidad": "diente", "nombre": "Ajo" },
+      { "cantidad": "1", "unidad": "cucharada", "nombre": "Aceite" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Sal y pimienta" }
+    ],
+    "pasos": [
+      "Rehogar cebolla y ajo picados en aceite hasta que transparenten.",
+      "Sumar el tomate, salpimentar y cocinar 15 minutos.",
+      "Hervir los fideos en agua con sal hasta que estén al dente.",
+      "Colar la pasta y mezclar con la salsa."
+    ],
+    "categoria": "Platos Principales"
+  },
+  {
+    "id": 2,
+    "titulo": "Ensalada simple",
+    "descripcion": "Lechuga, tomate y huevo con un aderezo rápido.",
+    "imagen": "/images/salad.jpg",
+    "tiempoPreparacion": "15 minutos",
+    "dificultad": "Fácil",
+    "porciones": 2,
+    "ingredientes": [
+      { "cantidad": "1", "unidad": "cabeza", "nombre": "Lechuga" },
+      { "cantidad": "2", "unidad": "unidades", "nombre": "Tomates" },
+      { "cantidad": "2", "unidad": "unidades", "nombre": "Huevos duros" },
+      { "cantidad": "2", "unidad": "cucharadas", "nombre": "Aceite" },
+      { "cantidad": "1", "unidad": "cucharada", "nombre": "Vinagre" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Sal" }
+    ],
+    "pasos": [
+      "Lavar y cortar la lechuga y el tomate.",
+      "Cortar los huevos duros en cuartos.",
+      "Mezclar aceite, vinagre y sal para el aderezo.",
+      "Unir todos los ingredientes y aderezar antes de servir."
+    ],
+    "categoria": "Entradas"
+  },
+  {
+    "id": 3,
+    "titulo": "Budín de pan",
+    "descripcion": "Postre económico para aprovechar pan del día anterior.",
+    "imagen": "/images/budin.jpg",
+    "tiempoPreparacion": "70 minutos",
+    "dificultad": "Media",
+    "porciones": 6,
+    "ingredientes": [
+      { "cantidad": "300", "unidad": "g", "nombre": "Pan del día anterior" },
+      { "cantidad": "700", "unidad": "ml", "nombre": "Leche" },
+      { "cantidad": "3", "unidad": "unidades", "nombre": "Huevos" },
+      { "cantidad": "120", "unidad": "g", "nombre": "Azúcar" },
+      { "cantidad": "1", "unidad": "cucharadita", "nombre": "Esencia de vainilla" },
+      { "cantidad": "80", "unidad": "g", "nombre": "Uvas pasas (opcional)" }
+    ],
+    "pasos": [
+      "Remojar el pan en leche tibia hasta que se ablande.",
+      "Batir huevos con azúcar y vainilla y mezclar con el pan.",
+      "Volcar en un molde acaramelado.",
+      "Hornear a baño María a 170°C durante 50 a 60 minutos."
+    ],
+    "categoria": "Postres"
+  }
+]

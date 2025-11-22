@@ -56,10 +56,8 @@ src/
 - `npm run lint`: análisis estático con ESLint.
 
 ## Capturas de pantalla
-```
 ![Listado - claro](public/images/screenshots/screenshot-recipees-white.png)
 ![Listado - oscuro](public/images/screenshots/screenshot-recipees-dark.png)
 ![Detalle - página](public/images/screenshots/screenshot-details-page.png)
 ![Detalle - modal](public/images/screenshots/screenshot-details-modal.png)
-```
 
